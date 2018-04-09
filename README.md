@@ -4,7 +4,7 @@ This project creates tidy data from  data collected from the accelerometers from
 fulll description : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 ##This project contains
-1. run_analysis.R, it a script that reads and transofms the original data to tidy data according to the instructions in the course project:
+1. run_analysis.R, it a script that reads and transofms the original data to tidy data according to the instructions in the course project (this script assumes the data zip file was extacted under the current working directory were the script resids):
    
     * Merges the training and the test sets to create one data set.  
     * Extracts only the measurements on the mean and standard deviation for each measurement.  
