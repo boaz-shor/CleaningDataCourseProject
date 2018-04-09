@@ -10,6 +10,8 @@ fulll description : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recogn
     Extracts only the measurements on the mean and standard deviation for each measurement.
     Uses descriptive activity names to name the activities in the data set
     Appropriately labels the data set with descriptive variable names.
-    From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+    From the data set in step 4, creates a second, independent tidy data set with the average of        each variable for each activity and each subject.
+
 2. code_book.md - contains explanations about the variables and trasformations in 1.
+
 3. This README.md file 
